@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Cybersecurity & Flutter Developer Banner](https://i.imgur.com/6xI2p1b.png)
 
 # 👋 Hi, I’m **Robin KP**  
 
