@@ -1,92 +1,98 @@
-# Hi, I’m Robin KP
+<!-- Banner -->
+![Cybersecurity & Flutter Developer Banner](https://i.imgur.com/6xI2p1b.png)
 
-**Cybersecurity Analyst** • **Flutter Application Developer** • **CTF Developer** • **Polyglot Programmer**
+# 👋 Hi, I’m **Robin KP**  
+
+**💻 Cybersecurity Analyst** • **📱 Flutter Application Developer** • **🏆 CTF Developer** • **🛠 Polyglot Programmer**
 
 I’m a security-focused developer with a strong background in **application security**, **mobile development**, and **competitive cybersecurity challenges**.  
 I combine hands-on offensive security skills with production-grade development experience—building **secure mobile apps**, **cloud-connected systems**, and **research-driven CTF content**.
 
 ---
 
-## 🎓 Background
+## 📜 **Background**
 
-- **Bachelor’s in Computer Applications (BCA)**
-- Cybersecurity Analyst specializing in threat modeling, incident response, and secure SDLC.
-- Flutter Application Developer with cross-platform expertise and backend integration experience.
-- CTF Developer crafting realistic, multi-stage challenges across **web**, **pwn**, **crypto**, **forensics**, and **mobile**.
-- Programming languages: **Python**, **Java**, **Dart**, **C++**, **XAML**, **C**.
-
----
-
-## 💼 What I Do
-
-- **Application & Mobile Security**: Secure architecture reviews, code audits, dependency risk analysis (SCA), and mobile app hardening for Flutter/Android.
-- **Offensive Security & CTF Engineering**: Design and deploy complex CTF challenges with chained exploits, protocol edge cases, and IR-driven storylines.
-- **Flutter Engineering**: Scalable, testable apps with clean architecture (**BLoC/Provider/Riverpod**), secure storage, deep linking, CI/CD, and native interop (**MethodChannels/FFI**).
-- **Backend & APIs**: JWT/OAuth2 auth flows, RBAC/ABAC models, OpenAPI-first design, rate limiting, and secure API gateways.
-- **Systems & Tooling**: Custom Python/C++ security tooling, static/dynamic analysis workflows, fuzzing harnesses, and red-team automation.
+🎓 **Bachelor’s in Computer Applications (BCA)**  
+🛡 Cybersecurity Analyst specializing in **threat modeling**, **incident response**, and **secure SDLC**  
+📱 Flutter Developer with cross-platform & backend integration expertise  
+🧩 CTF Creator crafting realistic challenges in **Web, Pwn, Crypto, Forensics, Mobile**  
+💡 Languages: `Python` · `Java` · `Dart` · `C++` · `XAML` · `C`
 
 ---
 
-## 🛡 Security Skill Set
+## 🚀 **What I Do**
 
-- **Web Security**: SSRF, IDOR, deserialization, template injection, OAuth misconfig, race conditions, cache poisoning, HTTP smuggling, WAF evasion.
-- **Mobile Security**: Flutter/Android reverse engineering, certificate pinning, secure key storage, dynamic hooking defenses, ProGuard/R8 hardening.
-- **Cloud & Infrastructure**: Container security (Docker), IaC validation, secrets management, least-privilege IAM, telemetry-driven threat detection.
-- **Incident Response**: Log triage, IOC development, memory forensics workflows, containment runbooks.
-- **Applied Cryptography**: Key management, misuse detection, side-channel awareness, CTF-grade crypto challenge design.
-
----
-
-## 🛠 Development Stack
-
-- **Languages**: Python, Java, Dart, C++, XAML, C
-- **Mobile**: Flutter, Platform Channels, Native Android Interop
-- **Security Tooling**: Custom Python/C++ utilities, fuzzers, SAST/DAST pipelines
-- **CI/CD**: Automated testing, quality gates, artifact signing, release pipelines
-- **Testing**: Unit, widget, integration, golden tests; fuzz/property-based testing
+- 🔐 **Application & Mobile Security** — Architecture reviews, code audits, dependency risk analysis, mobile app hardening  
+- 🎯 **Offensive Security & CTF Engineering** — Complex attack chains, protocol edge cases, IR-driven challenges  
+- 📲 **Flutter Engineering** — Scalable apps with **BLoC / Provider / Riverpod**, secure storage, CI/CD, native interop  
+- 🌐 **Backend & APIs** — JWT/OAuth2, RBAC/ABAC, OpenAPI-first, secure gateways, rate limiting  
+- ⚙ **Systems & Tooling** — Custom security tools, fuzzing, automation, SAST/DAST pipelines  
 
 ---
 
-## 🎯 CTF Design Philosophy
+## 🛡 **Security Skill Set**
 
-- Realistic attack chains reflecting modern enterprise environments with embedded detection signals.
-- Multi-discipline: pivoting across web, binaries, network protocols, and mobile exploitation.
-- Developer education: challenges that double as secure coding lessons with remediation guides.
-
----
-
-## 📌 Selected Projects
-
-- **Secure Flutter App Template** — Opinionated starter with auth, secure storage, offline-first sync, analytics opt-in, hardened networking.
-- **CTF Challenge Packs** — Multi-stage challenges with IaC deployment and automated validation.
-- **Security Tooling** — Scripts for automated recon, dependency auditing, and API fuzzing.
+**Web Security** 🕸 — SSRF, IDOR, deserialization, template injection, OAuth misconfig, race conditions, HTTP smuggling  
+**Mobile Security** 📱 — Reverse engineering, certificate pinning, secure key storage, hooking defenses, code obfuscation  
+**Cloud & Infra** ☁ — Docker security, IaC validation, secrets management, IAM hardening, telemetry-based detection  
+**Incident Response** 🚨 — Log triage, IOC creation, memory forensics, containment workflows  
+**Applied Cryptography** 🔑 — Key management, misuse detection, side-channel awareness, CTF-grade crypto design  
 
 ---
 
-## 🔍 Research & Interests
+## 🛠 **Development Stack**
 
-- Threat modeling for mobile and API-heavy platforms.
-- Advanced Flutter security: runtime integrity checks, anti-debugging, and network trust strategies.
-- Modern exploit chains & detection bypasses informed by CTF and blue-team telemetry.
-- Embedded security in audio/light-to-audio interfaces with ESP microcontrollers and LM358 circuits.
-
----
-
-## 🛠 How I Work
-
-- **Security by Design** — Integrate controls early, validate continuously, measure outcomes.
-- **Code You Can Trust** — Clear abstractions, rigorous testing, minimal attack surface.
-- **Pragmatic Tooling** — Build only what’s needed, automate what repeats, document for maintainers.
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🤝 Let’s Build
+## 🎯 **CTF Design Philosophy**
 
-I’m open to collaborating on:
-- Secure, production-ready Flutter apps
-- Advanced CTF challenges for conferences/training
-- Security tooling, incident response automation, red-team utilities
+- 🔍 Realistic attack chains with embedded detection signals  
+- 🛠 Multi-discipline: pivoting between **web**, **binary**, **network**, **mobile**  
+- 📚 Educational: challenges double as secure coding lessons with remediation guides  
 
 ---
 
-> **"Make it robust. Make it testable. Make it secure."**
+## 📌 **Selected Projects**
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Secure Flutter App Template** | Auth, secure storage, offline sync, hardened networking | Flutter, Dart, Firebase |
+| **CTF Challenge Packs** | Multi-stage challenges with automated validation | Docker, Python, Bash |
+| **Security Tooling** | Recon, dependency auditing, API fuzzing | Python, C++ |
+
+---
+
+## 🔍 **Research & Interests**
+
+- 📱 Threat modeling for mobile & API-heavy platforms  
+- 🔒 Advanced Flutter security (anti-debugging, runtime checks, trust strategies)  
+- 🛡 Modern exploit chains & detection bypasses informed by **CTF & blue-team telemetry**  
+- ⚡ Embedded security in **audio/light-to-audio interfaces** with ESP microcontrollers  
+
+---
+
+## 🤝 **Let’s Build Together**
+
+💬 Open to collaborations on:  
+- Secure, production-ready Flutter apps  
+- Advanced CTF challenges for conferences/training  
+- Security tooling, incident response automation, red-team utilities  
+
+---
+
+> 📝 **"Make it robust. Make it testable. Make it secure."**
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robinkp&show_icons=true&theme=radical" alt="Robin KP's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinkp&layout=compact&theme=radical" height="160"/>
+</p>
