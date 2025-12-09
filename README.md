@@ -89,8 +89,3 @@ I combine hands-on offensive security skills with production-grade development e
 
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinkp&show_icons=true&theme=radical" alt="Robin KP's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinkp&layout=compact&theme=radical" height="160"/>
-</p>
