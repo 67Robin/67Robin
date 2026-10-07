@@ -6,13 +6,6 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-```yaml
-name: Robin KP
-role: Software Engineer · Cybersecurity Researcher
-approach: Build it. Break it. Secure it.
-philosophy: "Good software works. Great software is understandable. Secure software survives being attacked."
-```
-
 I'm a **software engineer with a security-first mindset**, working across **application development, mobile engineering, backend systems, and cybersecurity**.
 
 I enjoy taking an idea from architecture to implementation — then looking at the same system from an attacker's perspective.
@@ -53,7 +46,7 @@ I enjoy taking an idea from architecture to implementation — then looking at t
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 &nbsp;Featured Work
+## 🚀 Featured Work
 
 <div align="center">
 <table>
@@ -117,7 +110,7 @@ Designing realistic cybersecurity challenges and supporting infrastructure for t
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ &nbsp;Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -154,7 +147,7 @@ Designing realistic cybersecurity challenges and supporting infrastructure for t
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔒 &nbsp;Security & Research
+## 🔒 Security & Research
 
 <div align="center">
 
@@ -220,7 +213,7 @@ Security research
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💡 &nbsp;Engineering Philosophy
+## 💡Engineering Philosophy
 
 <div align="center">
 
@@ -274,7 +267,7 @@ stronger engineering decisions.
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔮 &nbsp;Currently Exploring
+## 🔮 Currently Exploring
 
 <div align="center">
 
@@ -285,8 +278,6 @@ stronger engineering decisions.
 `API Security`
 &nbsp;&nbsp;·&nbsp;&nbsp;
 `Security Automation`
-&nbsp;&nbsp;·&nbsp;&nbsp;
-`CTF Engineering`
 
 </div>
 
@@ -295,18 +286,18 @@ stronger engineering decisions.
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=67Robin&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=67Robin&show_icons=true&theme=transparent&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67Robin&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67Robin&layout=compact&theme=transparent&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=67Robin&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=67Robin&theme=transparent&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </div>
 
 <br/>
@@ -314,7 +305,7 @@ stronger engineering decisions.
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 &nbsp;Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
