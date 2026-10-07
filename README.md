@@ -1,91 +1,173 @@
+<div align="center">
 
-# 👋 Hi, I’m **Robin KP**  
+# 👋 Hi, I’m **Robin KP**
 
-**💻 Cybersecurity Analyst** • **📱 Flutter Application Developer** • **🏆 CTF Developer** • **🛠 Polyglot Programmer**
+### Software Engineer · Flutter Developer · Cybersecurity Researcher
 
-I’m a security-focused developer with a strong background in **application security**, **mobile development**, and **competitive cybersecurity challenges**.  
-I combine hands-on offensive security skills with production-grade development experience—building **secure mobile apps**, **cloud-connected systems**, and **research-driven CTF content**.
+Building **secure, scalable software** where engineering meets security.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/robinkp)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/67Robin)
 
-## 📜 **Background**
-
-🎓 **Bachelor’s in Computer Applications (BCA)**  
-🛡 Cybersecurity Analyst specializing in **threat modeling**, **incident response**, and **secure SDLC**  
-📱 Flutter Developer with cross-platform & backend integration expertise  
-🧩 CTF Creator crafting realistic challenges in **Web, Pwn, Crypto, Forensics, Mobile**  
-💡 Languages: `Python` · `Java` · `Dart` · `C++` · `XAML` · `C`
+</div>
 
 ---
 
-## 🚀 **What I Do**
+## About
 
-- 🔐 **Application & Mobile Security** — Architecture reviews, code audits, dependency risk analysis, mobile app hardening  
-- 🎯 **Offensive Security & CTF Engineering** — Complex attack chains, protocol edge cases, IR-driven challenges  
-- 📲 **Flutter Engineering** — Scalable apps with **BLoC / Provider / Riverpod**, secure storage, CI/CD, native interop  
-- 🌐 **Backend & APIs** — JWT/OAuth2, RBAC/ABAC, OpenAPI-first, secure gateways, rate limiting  
-- ⚙ **Systems & Tooling** — Custom security tools, fuzzing, automation, SAST/DAST pipelines  
+I’m a **software engineer with a security-first mindset**, working across application development, mobile engineering, backend systems, and cybersecurity.
 
----
+My focus is not simply building things that work — it is building systems that are **well-designed, maintainable, testable, and secure**.
 
-## 🛡 **Security Skill Set**
+- 📱 **Mobile & Frontend** — Flutter, Dart, React, TypeScript
+- ⚙️ **Backend Engineering** — Django, Node.js, Flask, REST APIs
+- 🔐 **Application Security** — threat modeling, secure SDLC, API security
+- 🧪 **Security Research** — offensive security, mobile security, CTF engineering
+- 🛠️ **Engineering** — Docker, CI/CD, automation, security tooling
 
-**Web Security** 🕸 — SSRF, IDOR, deserialization, template injection, OAuth misconfig, race conditions, HTTP smuggling  
-**Mobile Security** 📱 — Reverse engineering, certificate pinning, secure key storage, hooking defenses, code obfuscation  
-**Cloud & Infra** ☁ — Docker security, IaC validation, secrets management, IAM hardening, telemetry-based detection  
-**Incident Response** 🚨 — Log triage, IOC creation, memory forensics, containment workflows  
-**Applied Cryptography** 🔑 — Key management, misuse detection, side-channel awareness, CTF-grade crypto design  
+> **Build it. Break it. Secure it.**
 
 ---
 
-## 🛠 **Development Stack**
+## What I Build
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
----
+### Software Engineering
 
-## 🎯 **CTF Design Philosophy**
+Building production-oriented applications with clean architecture, reliable APIs, and practical developer workflows.
 
-- 🔍 Realistic attack chains with embedded detection signals  
-- 🛠 Multi-discipline: pivoting between **web**, **binary**, **network**, **mobile**  
-- 📚 Educational: challenges double as secure coding lessons with remediation guides  
+**Focus**
+- Full-stack applications
+- Flutter mobile applications
+- REST APIs & backend services
+- Authentication & authorization
+- Database-driven systems
+- Dockerized deployments
 
----
+</td>
+<td width="50%">
 
-## 📌 **Selected Projects**
+### Cybersecurity
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Secure Flutter App Template** | Auth, secure storage, offline sync, hardened networking | Flutter, Dart, Firebase |
-| **CTF Challenge Packs** | Multi-stage challenges with automated validation | Docker, Python, Bash |
-| **Security Tooling** | Recon, dependency auditing, API fuzzing | Python, C++ |
+Applying offensive-security thinking throughout the development lifecycle.
 
----
+**Focus**
+- Web & API security
+- Mobile application security
+- Secure coding
+- Threat modeling
+- Security testing
+- CTF challenge development
 
-## 🔍 **Research & Interests**
-
-- 📱 Threat modeling for mobile & API-heavy platforms  
-- 🔒 Advanced Flutter security (anti-debugging, runtime checks, trust strategies)  
-- 🛡 Modern exploit chains & detection bypasses informed by **CTF & blue-team telemetry**  
-- ⚡ Embedded security in **audio/light-to-audio interfaces** with ESP microcontrollers  
-
----
-
-## 🤝 **Let’s Build Together**
-
-💬 Open to collaborations on:  
-- Secure, production-ready Flutter apps  
-- Advanced CTF challenges for conferences/training  
-- Security tooling, incident response automation, red-team utilities  
+</td>
+</tr>
+</table>
 
 ---
 
-> 📝 **"Make it robust. Make it testable. Make it secure."**
+## Selected Work
+
+### 🛒 Kadi — Food Ordering Platform
+A Django-based web application built around a real-world ordering workflow, with backend APIs, database integration, authentication, and deployment.
+
+**Stack:** `Django` `Python` `SQL` `REST API` `Railway`
 
 ---
+
+### 📱 LABSYNC — Flutter + Firebase
+A cross-platform application developed as a BCA final-year project, designed for biotechnology workflows with mobile-first interaction and cloud integration.
+
+**Stack:** `Flutter` `Dart` `Firebase`
+
+---
+
+### 🧩 CTF Engineering
+Designing and developing realistic cybersecurity challenges and supporting infrastructure for training and competitive security events.
+
+**Areas:** `Web` `Pwn` `Crypto` `Forensics` `Mobile` `Reverse Engineering`
+
+**Stack:** `Python` `Docker` `Bash` `CTFd`
+
+---
+
+### 🛡️ GardX — Phishing Detection Platform
+A phishing-detection system built around a browser-extension client and a live Django REST backend. GardX analyzes URLs in real time and uses security-focused detection techniques including favicon fingerprinting to identify suspicious or fake login pages.
+
+**Stack:** `JavaScript` `Python` `Django` `REST API` `Docker` `Render`
+
+🔗 [GitHub](https://github.com/67Robin/GardX)
+
+---
+
+## Technical Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Development
+
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+
+### Security
+
+`Web Security` · `API Security` · `Mobile Security` · `Threat Modeling` · `Secure SDLC` · `Security Testing` · `CTF Engineering`
+
+### Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+## Security & Research
+
+I’m particularly interested in the intersection of **software engineering and offensive security**.
+
+- 🔎 Web application and API attack surfaces
+- 📱 Mobile application security and reverse engineering
+- 🔐 Secure authentication, authorization, and data handling
+- 🧠 Threat modeling and security-aware architecture
+- 🧪 CTF challenge design and realistic attack chains
+- ⚙️ Security automation and developer tooling
+
+---
+
+## Currently
+
+```text
+Software Engineering     ████████████████████  Building
+Flutter                  ███████████████████░  Building
+Cybersecurity            ████████████████████  Researching
+CTF Engineering          ███████████████████░  Creating
+System Design            ████████████████░░░░  Learning
+```
+
+---
+
+## Let's Connect
+
+If you're working on **software engineering, application security, Flutter, backend systems, or cybersecurity**, I'd be happy to connect.
+
+<div align="center">
+
+### Build software. Understand systems. Secure them.
+
+</div>
+
 
