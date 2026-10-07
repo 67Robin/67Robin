@@ -68,7 +68,7 @@ Django-based web application built around a real-world ordering workflow with ba
 
 `Django` `Python` `SQL` `REST API` `Railway`
 
-<a href="https://github.com/67Robin/Kadi">View Repository →</a>
+<a href="https://github.com/67Robin/kadi-app">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
