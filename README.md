@@ -1,173 +1,340 @@
+<!-- Header Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Robin%20KP&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Cybersecurity%20Researcher&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+```yaml
+name: Robin KP
+role: Software Engineer · Cybersecurity Researcher
+approach: Build it. Break it. Secure it.
+philosophy: "Good software works. Great software is understandable. Secure software survives being attacked."
+```
+
+I'm a **software engineer with a security-first mindset**, working across **application development, mobile engineering, backend systems, and cybersecurity**.
+
+I enjoy taking an idea from architecture to implementation — then looking at the same system from an attacker's perspective.
+
 <div align="center">
-
-# 👋 Hi, I’m **Robin KP**
-
-### Software Engineer · Flutter Developer · Cybersecurity Researcher
-
-Building **secure, scalable software** where engineering meets security.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/robinkp)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/67Robin)
-
-</div>
-
----
-
-## About
-
-I’m a **software engineer with a security-first mindset**, working across application development, mobile engineering, backend systems, and cybersecurity.
-
-My focus is not simply building things that work — it is building systems that are **well-designed, maintainable, testable, and secure**.
-
-- 📱 **Mobile & Frontend** — Flutter, Dart, React, TypeScript
-- ⚙️ **Backend Engineering** — Django, Node.js, Flask, REST APIs
-- 🔐 **Application Security** — threat modeling, secure SDLC, API security
-- 🧪 **Security Research** — offensive security, mobile security, CTF engineering
-- 🛠️ **Engineering** — Docker, CI/CD, automation, security tooling
-
-> **Build it. Break it. Secure it.**
-
----
-
-## What I Build
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Software Engineering
+### ⚙️ Engineering
 
-Building production-oriented applications with clean architecture, reliable APIs, and practical developer workflows.
-
-**Focus**
-- Full-stack applications
-- Flutter mobile applications
-- REST APIs & backend services
-- Authentication & authorization
-- Database-driven systems
-- Dockerized deployments
+- 📱 Flutter & cross-platform apps
+- ⚙️ Backend & REST APIs
+- 🌐 Full-stack applications
+- 🧱 Clean, maintainable architecture
+- 🐳 Dockerized development & deployment
+- 🔄 Automation & developer tooling
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Cybersecurity
+### 🔐 Security
 
-Applying offensive-security thinking throughout the development lifecycle.
+- 🔐 Application & API security
+- 📱 Mobile security
+- 🧠 Threat modeling
+- 🛡️ Secure SDLC
+- 🧪 Security testing
+- 🧩 CTF engineering
 
-**Focus**
-- Web & API security
-- Mobile application security
-- Secure coding
-- Threat modeling
-- Security testing
-- CTF challenge development
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 &nbsp;Featured Work
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Kadi
+
+**Food Ordering Platform**
+
+Django-based web application built around a real-world ordering workflow with backend APIs, database integration, authentication, and deployment.
+
+`Django` `Python` `SQL` `REST API` `Railway`
+
+<a href="https://github.com/67Robin/Kadi">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 LABSYNC
+
+**Flutter + Firebase Application**
+
+Cross-platform application developed as a BCA final-year project for biotechnology workflows, with mobile-first interaction and cloud integration.
+
+`Flutter` `Dart` `Firebase`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ GardX
+
+**Phishing Detection Platform**
+
+A security-focused platform combining a browser extension with a Django REST backend to analyze URLs and identify suspicious or fake login pages.
+
+`JavaScript` `Python` `Django` `REST API` `Docker` `Render`
+
+<a href="https://github.com/67Robin/GardX">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 CTF Engineering
+
+**Security Challenge Development**
+
+Designing realistic cybersecurity challenges and supporting infrastructure for training and competitive security events.
+
+`Web` `Pwn` `Crypto` `Forensics` `Mobile` `Reverse Engineering`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## Selected Work
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛒 Kadi — Food Ordering Platform
-A Django-based web application built around a real-world ordering workflow, with backend APIs, database integration, authentication, and deployment.
+## 🛠️ &nbsp;Tech Arsenal
 
-**Stack:** `Django` `Python` `SQL` `REST API` `Railway`
-
----
-
-### 📱 LABSYNC — Flutter + Firebase
-A cross-platform application developed as a BCA final-year project, designed for biotechnology workflows with mobile-first interaction and cloud integration.
-
-**Stack:** `Flutter` `Dart` `Firebase`
-
----
-
-### 🧩 CTF Engineering
-Designing and developing realistic cybersecurity challenges and supporting infrastructure for training and competitive security events.
-
-**Areas:** `Web` `Pwn` `Crypto` `Forensics` `Mobile` `Reverse Engineering`
-
-**Stack:** `Python` `Docker` `Bash` `CTFd`
-
----
-
-### 🛡️ GardX — Phishing Detection Platform
-A phishing-detection system built around a browser-extension client and a live Django REST backend. GardX analyzes URLs in real time and uses security-focused detection techniques including favicon fingerprinting to identify suspicious or fake login pages.
-
-**Stack:** `JavaScript` `Python` `Django` `REST API` `Docker` `Render`
-
-🔗 [GitHub](https://github.com/67Robin/GardX)
-
----
-
-## Technical Stack
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,dart,cpp,c,typescript,javascript&theme=dark" />
 
 ### Development
 
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
-
-### Security
-
-`Web Security` · `API Security` · `Mobile Security` · `Threat Modeling` · `Secure SDLC` · `Security Testing` · `CTF Engineering`
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,django,nodejs,flask,express,firebase&theme=dark" />
 
 ### Infrastructure & Tools
 
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx,postman,arduino&theme=dark" />
 
----
+### Databases
 
-## Security & Research
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=dark" />
 
-I’m particularly interested in the intersection of **software engineering and offensive security**.
+</div>
 
-- 🔎 Web application and API attack surfaces
-- 📱 Mobile application security and reverse engineering
-- 🔐 Secure authentication, authorization, and data handling
-- 🧠 Threat modeling and security-aware architecture
-- 🧪 CTF challenge design and realistic attack chains
-- ⚙️ Security automation and developer tooling
-
----
-
-## Currently
-
-```text
-Software Engineering     ████████████████████  Building
-Flutter                  ███████████████████░  Building
-Cybersecurity            ████████████████████  Researching
-CTF Engineering          ███████████████████░  Creating
-System Design            ████████████████░░░░  Learning
-```
-
----
-
-## Let's Connect
-
-If you're working on **software engineering, application security, Flutter, backend systems, or cybersecurity**, I'd be happy to connect.
+<br/>
 
 <div align="center">
+
+`Python` · `Java` · `Dart` · `C++` · `C` · `TypeScript` · `JavaScript`  
+`Flutter` · `React` · `Next.js` · `Django` · `Node.js` · `Flask` · `Express` · `FastAPI`  
+`Docker` · `Kubernetes` · `Firebase` · `REST APIs` · `Socket.io` · `Three.js` · `WebGL`
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔒 &nbsp;Security & Research
+
+<div align="center">
+
+My security work is closely connected to how I approach software engineering:  
+**understand the system, identify the attack surface, then build better defenses.**
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔎
+**Web & API**
+
+Attack surfaces  
+Authentication  
+Authorization  
+API security
+
+</td>
+<td align="center" width="25%">
+
+### 📱
+**Mobile**
+
+Reverse engineering  
+Runtime security  
+Secure storage  
+App hardening
+
+</td>
+<td align="center" width="25%">
+
+### 🧠
+**Architecture**
+
+Threat modeling  
+Secure SDLC  
+Security-aware design  
+Risk analysis
+
+</td>
+<td align="center" width="25%">
+
+### 🧪
+**CTF**
+
+Challenge design  
+Attack chains  
+Automation  
+Security research
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💡 &nbsp;Engineering Philosophy
+
+<div align="center">
+
+> **Good software works.**  
+> **Great software is understandable.**  
+> **Secure software survives being attacked.**
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+**01**
+
+### 🏗️ Build
+
+Design systems that are  
+clean, practical & scalable.
+
+</td>
+<td width="33%" align="center">
+
+**02**
+
+### 💥 Break
+
+Question assumptions.  
+Test boundaries. Find weaknesses.
+
+</td>
+<td width="33%" align="center">
+
+**03**
+
+### 🛡️ Secure
+
+Turn findings into  
+stronger engineering decisions.
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔮 &nbsp;Currently Exploring
+
+<div align="center">
+
+`Secure Application Architecture`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`Advanced Flutter Security`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`API Security`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`Security Automation`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`CTF Engineering`
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=67Robin&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67Robin&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=67Robin&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 &nbsp;Connect With Me
+
+<div align="center">
+
+I'm interested in **software engineering, Flutter, backend systems, application security, and cybersecurity research**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinkp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kprobin67@gmail.com)
+
+<br/>
 
 ### Build software. Understand systems. Secure them.
 
 </div>
 
+<div align="center">
+  <sub>Designed with a simple principle: less noise, more signal.</sub>
+</div>
 
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
